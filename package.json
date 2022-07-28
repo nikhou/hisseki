@@ -1,0 +1,18 @@
+{
+  "name": "hisseki",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhou/hisseki.git"
+  },
+  "author": "nikho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhou/hisseki/issues"
+  },
+  "homepage": "https://github.com/nikhou/hisseki#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
